@@ -1,0 +1,93 @@
+Students Dataset :
+
+Total Score : use SUM Function.
+
+Absolute Marks : use fixed value.
+
+Percentage Calculation : student performance in percentage.
+
+Grade Classification : use nested if function.
+
+Above 80 in Maths & Science : use IF(AND(...)) function.
+
+Above 50 in Maths : use COUNTIFS function.
+
+Scored Above 60 : use COUNTIFS function.
+
+Student names based on ID from a separate dataset : using VLOOKUP function.
+
+The first name from full names : using LEFT and FIND.
+
+UPPERCASE Function : use to convert CAPITAL letters .
+
+LOWERCASE Function : use to convert SMALLER letters .
+
+Reference a cell range : use INDIRECT Function.
+
+Date and Time Functions : DATEDIF Function in not available for my Excel.
+
+ROUND Function : use to ROUND fig. value.
+
+CEILING Function : use to CEILING Function.
+
+FLOOR Function : use to FLOOR Function.
+
+FILTER : FILTER Function is not available for my Excel.
+
+
+Sales Dataset : 
+
+Compute discounts for sales based on price thresholds : use IF Function.
+
+Amount2 : multiplication Amount and Discount.
+
+Discount Eligible : use IF(OR(...)) function.
+
+Sum-ifs : use SUMIFS Function.
+
+Retrieve product prices based on product codes : using VLOOKUP function.
+
+Sales by Salesperson and Month : use INDEX+MATCH.
+
+The first name from full names : using LEFT and FIND.
+
+UPPERCASE Function : use to convert CAPITAL letters .
+
+LOWERCASE Function : use to convert SMALLER letters .
+
+XLOOKUP :XLOOKUP Function is not available for my Excel
+
+XMATCH : XMATCH Function is not available for my Excel.
+
+Reference a cell range : use INDIRECT Function.
+
+Dynamic Range : Use OFFSET.
+
+Employees Dataset : 
+
+Retrieve value using dynamic column number : use INDEX + MATCH function.
+
+The first name from full names : using LEFT and FIND.
+
+UPPERCASE Function : use to convert CAPITAL letters .
+
+LOWERCASE Function : use to convert SMALLER letters .
+
+XLOOKUP :XLOOKUP Function is not available for my Excel
+
+Reference a cell range : use INDIRECT Function.
+
+Extract day from date : use day function.
+
+Extract month from date : use month function.
+
+Extract year from date : use year function.
+
+
+
+
+
+
+
+
+
