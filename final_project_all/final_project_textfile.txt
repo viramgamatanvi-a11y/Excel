@@ -1,0 +1,29 @@
+1. Total purchase : using SUMIFS Function.
+
+2. highlight top 10 customers : using conditional formatting.
+
+3. WHAT IF Analysis : using Scenario Manager and Data Table.
+.
+4. Linear Regression (Profit vs Sales) : using Data Analysis Tool pack.
+
+5. Descriptive Statistics : using Data Analysis Tool pack.
+
+6. Month : using TEXT Function.
+
+7. Total Month Growth : using SUMIFS Function.
+
+8. Difference Month : Current Month – Previous Month.
+
+9. up/down arrows : Using conditional formatting.
+
+10. Timestamp : using NOW() Function.
+
+11. High-value customers : using index() + match() and filter Function.
+
+12. Pivot Table : sales by region and product Using pivot table.
+
+13. Charts : bar, line, and pie charts 
+
+14. KPIs : Total Sales , Total Quantity , Total Profit.
+
+15. and last Create a Dashboard 
