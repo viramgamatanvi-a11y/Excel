@@ -1,0 +1,32 @@
+1.Date and Time Function : Using TODAY() , NOW() , EOMANTH().
+
+2.DATEDIF() , FILTER() Function is not available.
+
+3.Icons/Arrows : Using Conditional Formatting.
+
+4.WHAT-IF Analysis : Using Scenario Manager, Goal Seek Function.
+
+5.Linear Regression : using Data Analysis Tool Pak.
+
+6.Customer_name Column : Using Duplicates Function.
+
+7.Total_Sales : Using SUMIFS() Function.
+
+8.High Value Customer : Using IF() Function.
+
+9.Create Pivot Tables , Pivot Charts(Bar, Line, Pie), Slicers and Timelines , KPI.
+
+10.Product Frequency : Using COUNTIF() Function.
+
+11.Most Frequency Parches Product : Using INDEX + MATCH Function.
+
+12.Two lists and matching names : Final List Using IF and COUNTIF Function.
+
+13.Abbreviations : Using UPPER() functions.
+
+14.Last Create a Dashboard.
+
+
+
+
+ 
